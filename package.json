@@ -1,0 +1,11 @@
+{
+  "name": "myfirstgit",
+  "version": "1.0.0",
+  "description": "first git vc",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Stephen",
+  "license": "ISC"
+}
