@@ -1,3 +1,4 @@
+//adding function
 function adds2nos(x,y){
     return x + y;
 
